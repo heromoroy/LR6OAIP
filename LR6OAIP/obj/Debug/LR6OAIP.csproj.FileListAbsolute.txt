@@ -1,0 +1,7 @@
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR6OAIP\bin\Debug\LR6OAIP.exe.config
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR6OAIP\bin\Debug\LR6OAIP.exe
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR6OAIP\bin\Debug\LR6OAIP.pdb
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR6OAIP\obj\Debug\LR6OAIP.csprojAssemblyReference.cache
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR6OAIP\obj\Debug\LR6OAIP.csproj.CoreCompileInputs.cache
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR6OAIP\obj\Debug\LR6OAIP.exe
+C:\Users\niciv\Documents\Уроки\5 семестр\ОАП\LR6OAIP\obj\Debug\LR6OAIP.pdb
